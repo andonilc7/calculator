@@ -1,0 +1,35 @@
+button {
+  font-size: 50px;
+}
+
+.display {
+  border: solid black;
+  width: fit-content;
+  padding: 0.5em 1em;
+  height: 60px;
+  width: 100px;
+  font-size: 50px;
+}
+
+.big-container {
+  display: flex;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5em;
+  border: solid black;
+}
+
+.small-container {
+  margin: 1em;
+}
+
+.firstNum {
+  font-size: 70px;
+}
+
+.secondNum {
+  font-size: 70px;
+}
