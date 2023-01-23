@@ -5,9 +5,9 @@ button {
 .display {
   border: solid black;
   width: fit-content;
-  padding: 0.5em 1em;
+  padding: 0.5em 0.25em;
   height: 60px;
-  width: 100px;
+  width: 200px;
   font-size: 50px;
 }
 
